@@ -1,4 +1,10 @@
-# Quantum Structure Prediction
+<p style="text-align: center;"> # Quantum Structure Prediction </p>
+
+<picture>
+  <img alt="VQE Circuit used in my project." src="C:\Users\Julian\Documents\Physics\Project\finalVQE.png">
+</picture>
+
+
 Code repository for my Physics Part III project on: 'Structure Prediction with Quantum Computers'. Conducted with the help of Chris Pickard and Guglielmo Mazzolo of IBM. The aim of the project was to show  
 
 # How to Install
